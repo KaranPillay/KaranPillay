@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaranPillay
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Analytics|Data Science|Machine Learning 
 - 🌱 I’m currently learning NLP and OpenCV
 - 💞️ I’m looking to collaborate on Slack, Webex, Google Docs
 - 📫 How to email me - karanpillay24@gmail.com
