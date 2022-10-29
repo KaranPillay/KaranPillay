@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaranPillay - Data Analyst | Analytics Consultant
+- 👋 Hi, I’m @KaranPillay - Operations Analyst | Analytics Consultant
 - 👀 Experienced Data Analytics|Data Science|Machine Learning professional
 - 💞️ I’m looking to collaborate on Slack, Webex, Google Docs
 - 📫 How to email me - karanpillay24@gmail.com
