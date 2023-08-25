@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaranPillay - Operations Analyst | Analytics Consultant
+- 👋 Hi, I’m @KaranPillay - Business Intelligence Specialist | Analytics Consultant
 - 👀 Experienced in Data Analytics|Data Science|Machine Learning 
 - 💞️ I’m looking to collaborate on Slack, Webex, Google Docs
 - 📫 How to email me - karanpillay@yahoo.com
