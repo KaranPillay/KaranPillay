@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaranPillay - Business Intelligence Specialist | Analytics Consultant currently working in automotive sector. Experience in hospitality and IT solutions.
+- 👋 Hi, I’m @KaranPillay - Business Intelligence Developer | Analytics Consultant currently working in automotive sector. Experience in hospitality and IT solutions.
 - 👀 Experienced in Data Analytics|Data Science|Machine Learning 
 - 📫 How to email me - karanpillay@yahoo.com
 
